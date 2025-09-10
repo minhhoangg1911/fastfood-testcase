@@ -1,0 +1,99 @@
+{
+  "cookies": [
+    {
+      "name": "countryCode",
+      "value": "VN",
+      "domain": ".cnn.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stateCode",
+      "value": "34",
+      "domain": ".cnn.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "geoData",
+      "value": "duong 23 thang 10|34|651687|VN|AS|700|broadband|12.250|109.180",
+      "domain": ".cnn.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "wUIBYrFZcTGcWAijE..1p2Yyq811.iPJlq.EnX3F5Lo-1757348299-1.0.1.1-JbI1Cb3_ZN.DVEGRhOyBlwUaFp14fkztq.Bt9BkWMjoX4PGHQIvNa.ZzIn8UJg5SvjvYVvn4SV49uGrYE0ZDYVCsHmoncPnMhfvbi5cKObY",
+      "domain": ".pixabay.com",
+      "path": "/",
+      "expires": 1757350145.281125,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "y88Qs96dCdiFp9kzCRejgHAP4Hk5dQ2AHaDWKbG0eZs-1757348299671-0.0.1.1-604800000",
+      "domain": ".pixabay.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "m",
+      "value": "e802cfa3-9202-4419-834c-5ff9486081204120b4",
+      "domain": "m.stripe.com",
+      "path": "/",
+      "expires": 1791908349.881731,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__stripe_mid",
+      "value": "fbee6040-e370-4eb7-99af-52c692e319bb48e399",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1788884349,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__stripe_sid",
+      "value": "bf5fe938-7645-4f52-aac6-799518180255e27037",
+      "domain": "localhost",
+      "path": "/",
+      "expires": 1757350149,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmdWxsTmFtZSI6ImFkbWluMSIsImlkIjoiNDA5NDNkZjUtNGE1My00MTY0LTgxOTAtNWNhM2FmNDI2MzVhIiwiZW1haWwiOiJhZG1pbjFAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwibmJmIjoxNzU3MzQ4MzUyLCJleHAiOjE3NTczNDkyNTIsImlhdCI6MTc1NzM0ODM1Mn0.up6SeNuazQl7BiXrgCFcrSp7oxtex7Hn8JR_WsgcUXg"
+        },
+        {
+          "name": "permission",
+          "value": "{\"id\":1,\"roleName\":\"admin\",\"rolePermissions\":[{\"id\":1,\"roleId\":1,\"permissionId\":2,\"permission\":{\"id\":2,\"permissionName\":\"All Permission\",\"rolePermissions\":[]}},{\"id\":6,\"roleId\":1,\"permissionId\":4,\"permission\":{\"id\":4,\"permissionName\":\"View Food\",\"rolePermissions\":[]}}]}"
+        }
+      ]
+    }
+  ]
+}

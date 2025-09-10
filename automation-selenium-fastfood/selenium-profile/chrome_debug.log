@@ -1,0 +1,75 @@
+[17464:3596:0908/224010.621:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[17464:17492:0908/224011.505:WARNING:components\leveldb_proto\internal\leveldb_database.cc:125] Unable to open D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata: IO error: D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:2328:0908/224011.534:WARNING:components\value_store\value_store_frontend.cc:47] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:17492:0908/224011.550:WARNING:components\leveldb_proto\internal\leveldb_database.cc:125] Unable to open D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata: IO error: D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:2328:0908/224011.552:WARNING:components\value_store\value_store_frontend.cc:47] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:17492:0908/224011.566:WARNING:components\leveldb_proto\internal\leveldb_database.cc:125] Unable to open D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata: IO error: D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:17492:0908/224011.595:WARNING:components\leveldb_proto\internal\leveldb_database.cc:125] Unable to open D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata: IO error: D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:3596:0908/224012.292:INFO:CONSOLE:0] "Failed to find a valid digest in the 'integrity' attribute for resource 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' with computed SHA-384 integrity '5e2ESR8Ycmos6g3gAKr1Jvwye8sW4U1u/cAKulfVJnkakCcMqhOudbtPnvJ+nbv7'. The resource has been blocked.", source: http://localhost:3000/ (0)
+[17464:3596:0908/224013.255:INFO:CONSOLE:115591] "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold", source: http://localhost:3000/static/js/bundle.js (115591)
+[17464:3596:0908/224013.476:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:17452:0908/224016.497:ERROR:google_apis\gcm\engine\gcm_store_impl.cc:322] Failed to open database D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\GCM Store: IO error: D:\automation-python-fastfood\automation-selenium-fastfood\selenium-profile\Default\GCM Store/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17464:12776:0908/224018.600:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[17464:12776:0908/224018.745:ERROR:google_apis\gcm\engine\mcs_client.cc:700]   Error code: 401  Error message: Authentication Failed: wrong_secret
+[17464:12776:0908/224018.745:ERROR:google_apis\gcm\engine\mcs_client.cc:702] Failed to log in to GCM, resetting connection.
+[17464:3596:0908/224020.221:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224020.349:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://localhost:3000/register (0)
+[17464:3596:0908/224027.238:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224027.338:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://localhost:3000/login (0)
+[17464:3596:0908/224033.260:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224036.991:INFO:CONSOLE:14390] "response [object Object]", source: http://localhost:3000/static/js/bundle.js (14390)
+[17464:3596:0908/224036.991:INFO:CONSOLE:14404] "id 40943df5-4a53-4164-8190-5ca3af42635a", source: http://localhost:3000/static/js/bundle.js (14404)
+[17464:3596:0908/224037.001:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224037.009:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224037.050:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224037.126:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224037.130:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224037.178:INFO:CONSOLE:14377] "response [object Object]", source: http://localhost:3000/static/js/bundle.js (14377)
+[17464:3596:0908/224041.926:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224041.942:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224041.944:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:12776:0908/224042.441:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[17464:3596:0908/224044.079:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224044.079:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.247:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.249:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.307:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.309:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.323:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.326:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.328:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.869:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.870:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.936:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.938:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224045.957:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.960:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224045.962:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224046.963:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224046.965:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224047.016:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224047.018:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224047.037:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224047.041:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224047.043:INFO:CONSOLE:5171] "shoppingCartFromStore [object Object]", source: http://localhost:3000/static/js/bundle.js (5171)
+[17464:3596:0908/224049.293:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224049.293:INFO:CONSOLE:12711] "Data [object Object]", source: http://localhost:3000/static/js/bundle.js (12711)
+[17464:3596:0908/224049.317:INFO:CONSOLE:1] "You may test your Stripe.js integration over HTTP. However, live Stripe.js integrations must use HTTPS.", source: https://js.stripe.com/v3 (1)
+[17464:3596:0908/224050.551:INFO:CONSOLE:1] "[Stripe.js] If you are testing Apple Pay or Google Pay, you must serve this page over HTTPS as it will not work over HTTP. Please read https://stripe.com/docs/stripe-js/elements/payment-request-button#html-js-prerequisites for more details.", source: https://js.stripe.com/v3/fingerprinted/js/controller-with-preconnect-e2f2937dd4e4335cff33336c6aae78ac.js (1)
+[17464:3596:0908/224050.622:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[17464:3596:0908/224050.924:INFO:CONSOLE:1] "[Stripe.js] The following payment method types are not activated:
+
+- link
+
+They will be displayed in test mode, but hidden in live mode. Please activate the payment method types in your dashboard (https://dashboard.stripe.com/settings/payment_methods) and ensure your account is enabled for any preview features that you are trying to use.", source: https://js.stripe.com/v3/fingerprinted/js/controller-with-preconnect-e2f2937dd4e4335cff33336c6aae78ac.js (1)
+[17464:3596:0908/224051.469:INFO:CONSOLE:1] "[Stripe.js] You have not registered or verified the domain, so the following payment methods are not enabled in the Payment Element: 
+
+- apple_pay
+
+Please follow https://stripe.com/docs/payments/payment-methods/pmd-registration to register and verify the domain.", source: https://js.stripe.com/v3/fingerprinted/js/controller-with-preconnect-e2f2937dd4e4335cff33336c6aae78ac.js (1)
+[17464:3596:0908/224055.597:INFO:CONSOLE:27] "Failed to find a valid digest in the 'integrity' attribute for resource 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css' with computed SHA-384 integrity '5e2ESR8Ycmos6g3gAKr1Jvwye8sW4U1u/cAKulfVJnkakCcMqhOudbtPnvJ+nbv7'. The resource has been blocked.", source: http://localhost:3000/admin (27)
+[17464:3596:0908/224055.633:INFO:CONSOLE:115591] "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold", source: http://localhost:3000/static/js/bundle.js (115591)
+[17464:3596:0908/224115.489:INFO:CONSOLE:7139] "response [object Object]", source: http://localhost:3000/static/js/bundle.js (7139)
+[17464:12776:0908/224141.728:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[17464:3596:0908/224205.276:INFO:CONSOLE:4341] "userData [object Object]", source: http://localhost:3000/static/js/bundle.js (4341)
+[17464:3596:0908/224205.474:INFO:CONSOLE:12711] "Data [object Object]", source: http://localhost:3000/static/js/bundle.js (12711)
